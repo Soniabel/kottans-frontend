@@ -22,3 +22,8 @@ https://photos.app.goo.gl/2dobs1NCbHDP2Cma6
 https://photos.app.goo.gl/rXiuMbSDmfkFj4eb9
 
 Новим для мене було дізнатися про ES6 і розібратися у ньому, також ознайомилась з нюансами функціонального програмування. Було багато завдань, в яких було цікаво розібратися.
+
+## HTML & CSS practice
+[demo](https://soniabel.github.io/HTML_CSS_POPUP/)
+
+[code](https://github.com/Soniabel/kottans-frontend/tree/main/Popup)
